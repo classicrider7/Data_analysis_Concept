@@ -1,2 +1,2 @@
-# Data_analysis_Concept-pandas-numpy
+# Data_analysis
 Data analysis concept using python 
